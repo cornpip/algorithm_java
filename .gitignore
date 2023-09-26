@@ -29,6 +29,5 @@ bin/
 .DS_Store
 
 ### custom ###
-.idea
 *.iml
 Test*.java
